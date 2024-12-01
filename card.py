@@ -49,6 +49,3 @@ class Card:
     
     def get_is_on_board(self):
         return self.__on_board
-
-    
-    
