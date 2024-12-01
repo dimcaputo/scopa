@@ -12,7 +12,7 @@ class Player:
         for card in cardsWon:
             self.__cardsWon = cardsWon
 
-    def set_turn(self, turnToPlay)
+    def set_turn(self, turnToPlay):
         self.__turnToPlay = turnToPlay
 
     def set_hand(self, cardsInHand):
